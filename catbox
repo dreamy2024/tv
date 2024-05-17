@@ -1,0 +1,83 @@
+{
+  "urls": [
+    {
+      "url": "https://gitee.com/dreamy2014/tvlive/raw/master/api.json",
+      "name": "白云科技"
+    },   
+    {
+      "url": "http://175.24.189.226/xc.json",
+      "name": "🌟星辰线路"
+    },
+     {
+      "url": "https://gitee.com/dreamy2014/tvlive/raw/master/xq.json",
+      "name": "老年戏剧"
+    },
+    {
+      "url": "http://tv.nxog.top/m",
+      "name": "🌟欧歌家庭线路"
+    },
+    {
+      "url": "http://a.nxog.top/m/111.php?ou=公众号欧歌app&mz=all&jar=all&b=欧歌",
+      "name": "✒️欧歌阿里4K"
+    },
+    {
+      "url": "http://xhww.fun:63/小米/DEMO.json",
+      "name": "🎬小米"
+    },
+    {
+      "url": "http://肥猫.live",
+      "name": "🐧肥猫"
+    },
+    {
+      "name": "🆕摸鱼4K",
+      "url": "http://清清.摸鱼儿.top"
+    },
+    {
+      "name": "🆕巧技",
+      "url": "http://cdn.qiaoji8.com/tvbox.json"
+    },
+    {
+      "name": "🆕音乐线路",
+      "url": "http://39.101.135.137:8081/yy.json"
+    },
+    {
+      "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer",
+      "name": "🍼少儿频道"
+    },  
+    {
+      "url": "https://www.huichunniao.cn/vip/4k/t.json",
+      "name": "🌟4K版影音天堂"
+    }, 
+    {
+      "url": "https://100km.top/0",
+      "name": "🌟纯一骚零"
+    },
+    {
+      "url": "http://www.lyyytv.cn/yt/yt.json",
+      "name": "🌟急救教学"
+    },
+    {
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/guot55/YGBH/main/vip2.json",
+      "name": "🌟月光宝盒"
+    },   
+    {
+      "url": "http://rihou.cc:88/荷城茶秀",
+      "name": "🌟荷城茶秀"
+    },  
+    {
+      "url": "https://jihulab.com/z-blog/vip/-/raw/main/xpg/t.json",
+      "name": "🌟小苹果线路"
+    },
+    {
+      "url": "https://jihulab.com/z-blog/vip/-/raw/main/xyq/t.json",
+      "name": "🌟香雅情线路"
+    },
+    {
+      "url": "https://jihulab.com/z-blog/xh2/-/raw/main/t.json",
+      "name": "🌟小荷线路"
+    },   
+    {
+      "url": "https://jihulab.com/z-blog/vip/-/raw/main/ysc/t.json",
+      "name": "🌟小车线路"
+    }]
+}
